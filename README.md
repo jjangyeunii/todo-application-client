@@ -1,6 +1,8 @@
 # 🚀Todo App
 ### 💡todo앱
 
+<img src="https://user-images.githubusercontent.com/73947931/207257590-5e36836f-fef0-4aa8-b824-0bddeeab5fe7.gif">
+
 
 ### 💡구현한 기능
 - CRUD 기능 완성
