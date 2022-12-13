@@ -17,7 +17,3 @@
 기존에 배웠던 것들과 여러 강의나 사이트를 참고하며 todo앱을 만들었다. 특히나 useContext를 이용하여 다크모드를 구현하는 방법은 정말 강의에 의존하여 구현한 것이라 여러 번 보며 확실하게 내 지식으로 만들고 싶다. 날짜별로 todo를 렌더링하는 것까지 구현해보고 싶었지만 사실 캘린더 적용은 급하게 추가하게 되어 state와 props 관리를 어떻게 해야할 지 생각할 시간이 필요할 것 같다. redux로 상태 관리하는 것도 해보고 싶었지만 아직은 미숙한 것 같아 틈틈히 찾아보고 공부하며 적용해봐야겠다.
 이러나 저러나 여러 시행착오 끝에 완료한 나의 첫 미니 프로젝트(?)는 여러가지 많이 찾아보며 배운 점도 많았고 얻을 것도 많았던 것 같다. 처음에 내가 기획했던 피그마와 디자인은 매우 달라졌지만 기능들은 최대한 구현하고자 노력했다.
 솔직히 내가 만든 todo 앱을 처음부터 다시 만들라고 한다고 해도 어려울 것 같지만(...ㅎ) 확실한 것은 todo앱을 만들며 얻어간 점이 정말 많았기 때문에 꼭 필요한 시간이었던 것 같다.
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
